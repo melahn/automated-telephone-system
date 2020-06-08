@@ -1,0 +1,17 @@
+body {
+    font: 18px Courier;
+    color: grey;
+    background-color: black;
+}
+a:link {
+    color: white;
+}
+a:visited {
+    color: grey;
+}
+a:hover {
+    color: red;
+}
+a:active {
+    color: red;
+}
